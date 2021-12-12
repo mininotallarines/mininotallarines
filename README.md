@@ -7,10 +7,7 @@ Currently working as web application developer on an online management platform 
 
 - 🔭 I’m currently working on an online management platform and several other private projects
 - 🌱 I’m currently learning OpenGL
-- 👯 I’m looking to collaborate on software distribution project
-- 🤔 I’m looking for help with web design
 - 💬 Ask me about anything related to programming or networking
-- ⚡ Fun fact: I like working from home better
 
 ## 👨‍💻 Skills
 
