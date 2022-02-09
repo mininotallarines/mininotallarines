@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jarno 
 
-I'm 21 years old and I'm a third year bachelor student software engineer @ Odisee University College in Ghent, Belgium.<br>
+I'm 21 years old and I'm a final year undergraduate information technology student from Belgium currently studying abroad @ LAB University in Lahti, Finland.<br>
 <br>
 Former theater 🎭 software engineer at ArtNation Belgium.<br>
 Currently working as web application developer on an online management platform to computerize and accelerate construction coordination 🏗 and real estate expertise.
@@ -11,7 +11,7 @@ Currently working as web application developer on an online management platform 
 
 ## 👨‍💻 Skills
 
-- ⚙ Java, C#, C/C++, PHP
+- ⚙ Java, C#, C/C++, PHP, Golang
 - 💾 MySql, Redis
 - 🛠 Git, Docker, Gradle, Maven
 - 📡 REST, PKI, Zigbee, Cloud Services
