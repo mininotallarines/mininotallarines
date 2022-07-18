@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jarno 
 
-I'm 21 years old and I'm a final year undergraduate information technology student from Belgium currently studying abroad @ LAB University in Lahti, Finland.<br>
+I'm 22 years old and I'm a final year undergraduate information technology student from Belgium currently studying @ UHasselt.<br>
 <br>
 Former theater 🎭 software engineer at ArtNation Belgium.<br>
 Currently working as web application developer on an online management platform to computerize and accelerate construction coordination 🏗 and real estate expertise.
