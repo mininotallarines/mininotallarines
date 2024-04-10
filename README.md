@@ -1,13 +1,6 @@
 ## 👋 Hi, I'm Jarno 
 
-I'm 22 years old and I'm a final year undergraduate information technology student from Belgium currently studying @ UHasselt.<br>
-<br>
-Former theater 🎭 software engineer at ArtNation Belgium.<br>
-Currently working as web application developer on an online management platform to computerize and accelerate construction coordination 🏗 and real estate expertise.
-
-- 🔭 I’m currently working on an online management platform and several other private projects
-- 🌱 I’m currently learning OpenGL
-- 💬 Ask me about anything related to programming or networking
+I’m Jarno, a software engineer and entrepreneur grounded in Belgium. I run Quarus, a small tech company focused on developing practical innovations to enhance everyday technology use. Our goal is to create user-friendly solutions that make a difference in how people engage with digital tools.
 
 ## 👨‍💻 Skills
 
